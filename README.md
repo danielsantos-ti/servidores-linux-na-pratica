@@ -145,6 +145,10 @@ Todos os comandos, checklists e arquivos complementares estão disponíveis no G
 - Material complementar e comandos comentados
 - Espaço para dúvidas e interação nos comentários
 
+🔗 [Acesse aqui as videoaulas no youtube](https://www.youtube.com/playlist?list=PLX-2Ss2Z7fNiMcUyf-Yk9MB3byCBI6dvf)
+
+> As videoaulas estão organizadas por temas com explicações didáticas e exemplos práticos para uma melhor compreensão do tema.
+
 ---
 
 ## 🏁 Resultado Esperado
