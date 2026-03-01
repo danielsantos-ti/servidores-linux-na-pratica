@@ -37,8 +37,8 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 
 ### 2. 🖥️ Configuração do Ubuntu Server
 
+- Snapshot e Atualização de pacotes do sistema
 - Instalar e configurar o Servidor SSH
-- Atualização de pacotes e sistema
 - Configuração de rede (IP fixo ou DHCP reservado)
 - Instalação de ferramentas básicas para administração
 
@@ -146,13 +146,17 @@ Todos os comandos, checklists e arquivos complementares estão disponíveis no G
 - Material complementar e comandos comentados
 - Espaço para dúvidas e interação nos comentários
 
+🔗 [Acesse aqui as videoaulas no youtube](https://www.youtube.com/playlist?list=PLX-2Ss2Z7fNiMcUyf-Yk9MB3byCBI6dvf)
+
+> As videoaulas estão organizadas por temas com explicações didáticas e exemplos práticos para uma melhor compreensão do tema.
+
 ---
 
 ## 🏁 Resultado Esperado
 
 Ao final do curso, o aluno terá um servidor Linux funcional, seguro e com aplicações reais instaladas, pronto para uso educacional ou pessoal.
 
-Os conhecimentos aqui adquiridos podem ser aplicados em ambientes corporativos e usamos em ferramentas profissionais como vmware, proxmox, hyper-v e outros.
+Os conhecimentos aqui adquiridos podem ser aplicados em ambientes corporativos e usados em ferramentas profissionais como vmware, proxmox, hyper-v e outros.
 
 ---
 
