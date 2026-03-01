@@ -55,7 +55,8 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 ### 3. 🌐 Configuração do Servidor Web
 
 - Instalação do Apache, PHP e extensões
-- Instalação do MariaDB/MySQL e phpMyAdmin
+- Instalação do MariaDB/MySQL 
+- Instalação e configuração do phpMyAdmin
 - Teste do ambiente com página PHP
 
 🎯 *Objetivo: montar a base para aplicações web dinâmicas.*
