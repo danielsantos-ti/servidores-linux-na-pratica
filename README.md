@@ -57,6 +57,7 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 - Instalação do Apache, PHP e extensões
 - Instalação do MariaDB/MySQL 
 - Instalação e configuração do phpMyAdmin
+- Correção do método de acesso ao PHPMyadmin
 - Teste do ambiente com página PHP
 
 🎯 *Objetivo: montar a base para aplicações web dinâmicas.*
