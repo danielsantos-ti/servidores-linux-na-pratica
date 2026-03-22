@@ -71,7 +71,8 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 
 ### 4. 🧩 Instalação de Aplicações Reais
 
-- Criação e configuração de banco de dados
+- Criação e configuração de banco de dados via cli
+- Criação e configuração de banco de dados via phpmyadmin
 - Instalação do GLPI (gestão de ativos e chamados)
 - Configuração de backups automáticos
 
