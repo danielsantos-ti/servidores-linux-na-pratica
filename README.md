@@ -71,10 +71,10 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 
 ### 4. 🧩 Instalação de Aplicações Reais
 
-- Criação e configuração de banco de dados via cli
-- Criação e configuração de banco de dados via phpmyadmin
-- Instalação do GLPI (gestão de ativos e chamados)
-- Configuração de backups automáticos
+- Verificação dos requisitos do servidor (Apache, PHP, Banco de Dados)
+- Download do pacote de instalação do GLPI
+- Configuração do Apache
+- Instalação, configuração e controle de permissão do glpi.
 
 🎯 *Objetivo: aplicar o conhecimento em soluções reais de mercado.*
 
