@@ -88,10 +88,9 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 
 ### 5. 🔐 Segurança e Acesso
 
-- Configuração de firewall (ufw ou iptables)
+- Configuração de firewall (ufw)
 - Criação de usuários com permissões específicas
 - Acesso remoto seguro (SSH com chave de acesso)
-- Criação de snapshot da VM
 
 🎯 *Objetivo: proteger o servidor e garantir acesso seguro.*
 
