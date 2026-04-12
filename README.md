@@ -90,7 +90,7 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 
 - Configuração de firewall (ufw ou iptables)
 - Criação de usuários com permissões específicas
-- Acesso remoto seguro (SSH com chave, fail2ban)
+- Acesso remoto seguro (SSH com chave de acesso)
 - Criação de snapshot da VM
 
 🎯 *Objetivo: proteger o servidor e garantir acesso seguro.*
